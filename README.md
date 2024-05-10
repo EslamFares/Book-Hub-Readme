@@ -5,7 +5,7 @@
 
 <h1> <img align="center" height="50" src="https://github.com/EslamFares/Book-Hub-Readme/blob/master/cover/icon.png?raw=true"> Book Hub</h1>
 
-
+Read and preview books by summarizing them and knowing their prices. There are many books in different fields. You can read books even when you are not connected to the Internet by downloading them previously.
 
 ## Features 🌟
 
