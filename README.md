@@ -1,9 +1,10 @@
 
 <p align="center">
     <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/book%20hub%20Mockup%2006.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
-    <img src="https://github.com/EslamFares/Book-Hub-Readme/blob/master/cover/For%20Reading%20Books%20-%20Book%20Hub.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
     <img src="https://github.com/EslamFares/Readme/blob/master/apps%20covers/book%20hub%20Mockup%2015.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
-
+</p>
+<p align="center">
+    <img src="https://github.com/EslamFares/Book-Hub-Readme/blob/master/cover/For%20Reading%20Books%20-%20Book%20Hub.png?raw=true" width="300px" style="border-radius: 14px 14px 14px 14px">
 </p>
 
 <h1> <img align="center" height="50" src="https://github.com/EslamFares/Book-Hub-Readme/blob/master/cover/icon.png?raw=true"> Book Hub</h1>
